@@ -1,0 +1,115 @@
+.navbar{
+    background-color:lightskyblue;
+}
+.nav-item{
+    font-family:'Source Serif Pro', serif; 
+}
+
+.parallax-country
+{background-image: url(https://cdn.pixabay.com/photo/2012/04/13/12/43/country-32248_960_720.png);
+    
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-color:rgb(0, 255, 149);
+    height:100%;
+    }
+
+.parallax-flowers
+{background-image: url(https://cdn.pixabay.com/photo/2017/09/16/12/04/flowers-2755297_960_720.png);
+    background-color:lightblue;
+        
+    background-attachment:fixed;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    font-family: Srichra;
+    height:100%;}
+
+.parallax-clouds
+{background-image: url(https://cdn.pixabay.com/photo/2017/10/05/21/28/clouds-2821064_960_720.png);
+    
+        
+    background-attachment:fixed;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    font-family: Srichra;
+    height:95%;}
+
+.parallax-cup
+{background-image: url(https://cdn.pixabay.com/photo/2017/10/25/08/25/cupcakes-2887270_960_720.jpg);
+    
+            
+    background-attachment:fixed;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    font-family: Srichra;        
+    height:100%;}
+
+.parallax-h
+{background-image: url(https://cdn.pixabay.com/photo/2013/07/18/10/56/house-163526_960_720.jpg);
+    
+                     
+    background-attachment:fixed;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    font-family: Srichra;                   
+    height:100%;}
+
+.parallax-landscape{
+    background-image:url(https://cdn.pixabay.com/photo/2017/01/05/08/58/landscape-1954307_960_720.png);
+    background-attachment:fixed;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    font-family: Srichra;                 
+    height:100%;
+
+}
+
+ .parallax-last{
+    background-image: url(https://cdn.pixabay.com/photo/2017/09/16/12/04/flowers-2755297_960_720.png);
+    background-color:lightblue;
+    font-family: Srichra;
+    height:100%;
+} 
+.fab{
+    font-size: 30px;
+    height: auto;   
+}
+.footer-link{
+    padding:15px;
+}
+.footer{
+    background-color:lightgreen; 
+    /* background-image: url(https://cdn.pixabay.com/photo/2012/04/14/13/59/clouds-34027__340.png); */
+    background-size: cover;
+    height:120px;
+    width:100%;
+}
+
+
+ /* 
+  url(https://cdn.pixabay.com/photo/2018/08/28/12/46/unicorn-3637428_960_720.png) 
+  url(https://cdn.pixabay.com/photo/2012/04/13/12/43/country-32248_960_720.png)
+  url(https://cdn.pixabay.com/photo/2017/02/21/09/06/flowers-2085123_960_720.png)
+  */
+
+
+/* .customClass1 {background:url ("img . jpg");}
+.customClass2 {background:url("img . jpg");}
+.customClass3 {background:url("img . jpg");}
+.customClass4 {background:url("img . jpg");} */
+
+
+   /* background-attachment: fixed;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;}     */
+    
+
+
